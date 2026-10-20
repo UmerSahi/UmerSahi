@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-labelledby="t d"><title id="t">Highlights</title><desc id="d">CGPA 3.76 with rank 1 in cohort; DenseNet-121 fracture AUROC 0.933; 14 of 14 red-team attacks defended; lead-scoring ROC-AUC 0.912.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E8F0FA"/></linearGradient><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0D9488"/><stop offset="1" stop-color="#7C3AED"/></linearGradient><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0D9488" stop-opacity="0.28"/><stop offset="1" stop-color="#0D9488" stop-opacity="0"/></radialGradient><radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.24"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient></defs>
+<rect x="0.5" y="0.5" width="287.0" height="149" rx="16" fill="#FFFFFF" stroke="#D3DFEE"/>
+<rect x="22.0" y="0" width="52" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="22.0" y="70" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1" fill="url(#acc)">3.76</text>
+<text x="22.0" y="100" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0B1B33">CGPA · ranked 1st</text>
+<text x="22.0" y="122" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7A8EA8">B.S. Computer Science, gold medalist</text>
+<rect x="304.5" y="0.5" width="287.0" height="149" rx="16" fill="#FFFFFF" stroke="#D3DFEE"/>
+<rect x="326.0" y="0" width="52" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="326.0" y="70" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1" fill="url(#acc)">0.933</text>
+<text x="326.0" y="100" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0B1B33">AUROC · fracture detection</text>
+<text x="326.0" y="122" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7A8EA8">DenseNet-121, test set N = 583</text>
+<rect x="608.5" y="0.5" width="287.0" height="149" rx="16" fill="#FFFFFF" stroke="#D3DFEE"/>
+<rect x="630.0" y="0" width="52" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="630.0" y="70" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1" fill="url(#acc)">14 / 14</text>
+<text x="630.0" y="100" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0B1B33">red-team attacks defended</text>
+<text x="630.0" y="122" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7A8EA8">Multi-agent clinic assistant</text>
+<rect x="912.5" y="0.5" width="287.0" height="149" rx="16" fill="#FFFFFF" stroke="#D3DFEE"/>
+<rect x="934.0" y="0" width="52" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="934.0" y="70" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1" fill="url(#acc)">0.912</text>
+<text x="934.0" y="100" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0B1B33">ROC-AUC · lead scoring</text>
+<text x="934.0" y="122" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#7A8EA8">LightGBM on 3,496 leads</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-labelledby="t d"><title id="t">Clinic assistant evaluation</title><desc id="d">Horizontal bar chart of self-reported evaluation results: emergency recall 100 percent, task success 100 percent, red-team 14 of 14 defended, lab extraction accuracy 99.4 percent, RAG grounding 92.0 percent.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060B17"/><stop offset="1" stop-color="#0E1C36"/></linearGradient><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.28"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient><radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.24"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient></defs>
+<rect x="0.5" y="0.5" width="1199" height="409" rx="20" fill="url(#bg)" stroke="#1E3250"/>
+<text x="40" y="52" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#EAF1FB">Clinic assistant · evaluation results</text>
+<text x="40" y="76" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" letter-spacing="0.5" fill="#6A809E">SYNTHETIC DATA · SELF-REPORTED IN THE REPOSITORY README</text>
+<text x="40" y="120" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#EAF1FB">Emergency recall</text>
+<text x="40" y="140" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6A809E">50 triage scenarios</text>
+<rect x="400" y="104" width="630" height="22" rx="11" fill="#12233B" stroke="#26425F"/>
+<rect x="400" y="104" width="630.0" height="22" rx="11" fill="url(#acc)"/>
+<text x="1052" y="121" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#EAF1FB">100%</text>
+<text x="40" y="174" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#EAF1FB">Task success</text>
+<text x="40" y="194" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6A809E">65 conversations</text>
+<rect x="400" y="158" width="630" height="22" rx="11" fill="#12233B" stroke="#26425F"/>
+<rect x="400" y="158" width="630.0" height="22" rx="11" fill="url(#acc)"/>
+<text x="1052" y="175" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#EAF1FB">100%</text>
+<text x="40" y="228" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#EAF1FB">Red-team attacks defended</text>
+<text x="40" y="248" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6A809E">14 attack vectors, 0 leaked records</text>
+<rect x="400" y="212" width="630" height="22" rx="11" fill="#12233B" stroke="#26425F"/>
+<rect x="400" y="212" width="630.0" height="22" rx="11" fill="url(#acc)"/>
+<text x="1052" y="229" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#EAF1FB">14 / 14</text>
+<text x="40" y="282" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#EAF1FB">Lab-report parameter accuracy</text>
+<text x="40" y="302" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6A809E">30 multimodal reports</text>
+<rect x="400" y="266" width="630" height="22" rx="11" fill="#12233B" stroke="#26425F"/>
+<rect x="400" y="266" width="626.2" height="22" rx="11" fill="url(#acc)"/>
+<text x="1052" y="283" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#EAF1FB">99.4%</text>
+<text x="40" y="336" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#EAF1FB">RAG grounding rate</text>
+<text x="40" y="356" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6A809E">25 questions</text>
+<rect x="400" y="320" width="630" height="22" rx="11" fill="#12233B" stroke="#26425F"/>
+<rect x="400" y="320" width="579.6" height="22" rx="11" fill="url(#acc)"/>
+<text x="1052" y="337" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#EAF1FB">92.0%</text>
+<text x="40" y="390" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6A809E">Bars show percentage on a 0 to 100 scale. Figures are the author's own reported results on synthetic data.</text>
+</svg>
