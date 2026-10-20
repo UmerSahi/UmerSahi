@@ -18,12 +18,25 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top">
+
 - 🎓 B.S. Computer Science, **Gold Medalist**, ranked **1st in cohort** (CGPA 3.76 / 4.00), KFUEIT
 - 💼 AI / Data Science Intern at **Netixsol**
 - 🔬 Interested in **computer vision, medical image analysis, explainable AI and LLM agents**
 - 🏆 Top Performer, HEC Pakistan Generative AI Training Program (Cohort 3)
 - 🌍 Looking for **research-based Master's / PhD positions** and AI / ML engineering roles, open worldwide
 - 📍 Khanpur, Punjab, Pakistan
+
+</td>
+<td width="280" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="Coding animation">
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
@@ -72,7 +85,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="fire"> Featured Projects
 
 | | Project | What it does | Stack |
 |:-:|---|---|---|
@@ -87,7 +100,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## 🔭 Research Interests
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="bullseye"> Research Interests
 
 - 🩻 Medical image analysis and computer vision
 - 🔍 Explainable and trustworthy AI
@@ -109,7 +122,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## 📫 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40" alt="handshake"> Let's Connect
 
 I'm open to research assistantships, graduate research positions and AI / ML engineering roles.
 
