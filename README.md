@@ -116,7 +116,11 @@
 
 <img src="https://streak-stats.demolab.com?user=UmerSahi&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
-<img src="https://github-profile-trophy.vercel.app/?username=UmerSahi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmerSahi/UmerSahi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmerSahi/UmerSahi/output/github-snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/UmerSahi/UmerSahi/output/github-snake.svg">
+</picture>
 
 </div>
 
