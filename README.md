@@ -1,144 +1,118 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Umer Sahi, AI / ML engineer. Computer vision, medical AI, explainable AI and LLM agents." width="100%">
-</picture>
+<h1>Hi, I'm Umer Sahi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="32" alt="waving hand"></h1>
 
-<br>
+<a href="https://github.com/UmerSahi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Engineer;Computer+Vision+%C2%B7+Medical+AI;Explainable+AI+%C2%B7+LLM+Agents;Open+to+research+%26+ML+roles+worldwide" alt="Typing animation: AI / ML Engineer, Computer Vision, Medical AI, Explainable AI, LLM Agents">
+</a>
 
-[**Portfolio**](https://umer-sahi.vercel.app/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/umer-sahi-b3bb19348/) &nbsp;·&nbsp; [**Email**](mailto:umersahi5p@gmail.com)
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://umer-sahi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-sahi-b3bb19348/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umersahi5p@gmail.com)
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg">
-  <img src="assets/highlights-light.svg" alt="Highlights: CGPA 3.76 ranked first; fracture detection AUROC 0.933; 14 of 14 red-team attacks defended; lead scoring ROC-AUC 0.912." width="100%">
-</picture>
+## 👨‍💻 About Me
 
-## About
+- 🎓 B.S. Computer Science, **Gold Medalist**, ranked **1st in cohort** (CGPA 3.76 / 4.00), KFUEIT
+- 💼 AI / Data Science Intern at **Netixsol**
+- 🔬 Interested in **computer vision, medical image analysis, explainable AI and LLM agents**
+- 🏆 Top Performer, HEC Pakistan Generative AI Training Program (Cohort 3)
+- 🌍 Looking for **research-based Master's / PhD positions** and AI / ML engineering roles, open worldwide
+- 📍 Khanpur, Punjab, Pakistan
 
-I'm a computer science graduate (gold medalist, ranked 1st in my cohort) who builds AI systems that can be **evaluated honestly and explained clearly**. My work spans computer vision for medical imaging, explainability, and multi-agent LLM applications, and I like taking a model all the way to an API, an interface and a deployment.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-I currently work as an AI / Data Science Intern at Netixsol. I'm looking for research-based graduate positions and AI / ML engineering roles, and I'm open to opportunities anywhere in the world.
+## 🛠️ Tech Stack
 
-## Featured projects
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 01 &nbsp; Explainable Bone Fracture Detection
-*Medical imaging · Explainable AI · [Repository](https://github.com/UmerSahi/Bone-Fracture-Detection)*
+**Machine Learning and Vision**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-6A5ACD?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-Fine-tuned ResNet-50 and DenseNet-121 on the FracAtlas radiograph dataset (4,085 images) and compared both against a frozen-feature logistic regression baseline. Predictions are explained with Grad-CAM and served through a FastAPI backend with a web interface.
+**LLMs and Agents**<br>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0E7490?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
 
-<a href="https://github.com/UmerSahi/Bone-Fracture-Detection">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chart-fracture-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/chart-fracture-light.svg">
-  <img src="assets/chart-fracture-light.svg" alt="Grouped bar chart of AUROC, AUPRC, sensitivity, specificity and F1 for logistic regression, ResNet-50 and DenseNet-121 on the fracture test set." width="100%">
-</picture>
-</a>
+**Backend, Web and Data**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Stratified 70/15/15 split, weighted loss for class imbalance, thresholds chosen on validation, **1,000-sample bootstrap confidence intervals**
-- A saliency audit found 55.41% of activation mass in the image border, so the repo documents **shortcut-learning risk** rather than hiding it
-- Ships with a model card and limitations: single-center data, image-level split, binary output only
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-`PyTorch` `Grad-CAM` `FastAPI` `Research prototype`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-### 02 &nbsp; Multi-Agent AI Clinic Assistant
-*Agentic systems · Safety evaluation · [Repository](https://github.com/UmerSahi/Multi-Agent-AI-Clinic-Assistant-for-Healthcare)*
+## 🚀 Featured Projects
 
-A safety-critical assistant for a simulated five-branch outpatient clinic network (30 doctors, synthetic patients) with Urdu / English intake. It never diagnoses or prescribes on its own: emergencies escalate deterministically and a doctor approves clinical output.
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 🦴 | **[Bone Fracture Detection](https://github.com/UmerSahi/Bone-Fracture-Detection)** | Classifies X-rays and explains predictions with Grad-CAM. DenseNet-121 reaches **0.933 AUROC** on the test set, with a model card and documented limitations. | `PyTorch` `Grad-CAM` `FastAPI` |
+| 🏥 | **[Multi-Agent AI Clinic Assistant](https://github.com/UmerSahi/Multi-Agent-AI-Clinic-Assistant-for-Healthcare)** | Safety-first clinic assistant with deterministic emergency triage, doctor approval and **14 / 14 red-team attacks defended** (synthetic data). | `LangGraph` `MCP` `Supabase` |
+| 🏠 | **[RealEstate Hub AI Agent](https://github.com/UmerSahi/Real-Estate-Hub-AI-Voice-Chat-Agent)** | Bilingual voice and chat property agent with explainable valuation (**R² 0.891**) and lead scoring (**ROC-AUC 0.912**). | `LangGraph` `LightGBM` `React` |
+| 🏉 | **[AFL AI Agent](https://github.com/UmerSahi/Netixsol/tree/main/Week%206/Day%205)** | Capstone assistant that routes between stats retrieval, predictions and refusal, with a prompt-injection guard and **100% on a 34-query router suite**. | `LangGraph` `FastAPI` `Gemini` |
+| 🥔 | **[Deep Spud](https://github.com/UmerSahi/potato-disease-Classification-notebook-only)** | Thesis project: potato leaf disease classification with InceptionV3 (**94%** test accuracy). | `TensorFlow` `Flask` `Next.js` |
+| 🧠 | **[Brain Tumor Classifier](https://github.com/UmerSahi/Brain-Tumor-Detection-Desktop-App)** | MRI tumor classification in a Tkinter desktop app. | `TensorFlow` `Tkinter` |
 
-<a href="https://github.com/UmerSahi/Multi-Agent-AI-Clinic-Assistant-for-Healthcare">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chart-agents-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/chart-agents-light.svg">
-  <img src="assets/chart-agents-light.svg" alt="Bar chart of clinic assistant evaluation results: emergency recall 100 percent, task success 100 percent, red-team 14 of 14, lab extraction 99.4 percent, RAG grounding 92 percent." width="100%">
-</picture>
-</a>
+<sub>Other repos: [Laptop Price Predictor](https://github.com/UmerSahi/Laptop-Price-Predictor) · [StoreFlow Dashboard](https://github.com/UmerSahi/Admin_Dashboard_Frontend_typescript) · [Crypto Price Watcher](https://github.com/UmerSahi/Cryptopricewatcher)</sub>
 
-- LangGraph supervisor with specialist agents and **four MCP servers** (records, scheduling, drug database, notifications)
-- Supabase PostgreSQL with a FHIR-aligned schema, row-level security and audit trails; Presidio PII handling with custom Pakistani ID and phone recognizers
-- Prescription safety engine, SOAP-note generation, human-in-the-loop approval, a Next.js patient portal and doctor command center
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-`LangGraph` `MCP` `Supabase` `RAG` `Next.js`
+## 🔭 Research Interests
 
-### 03 &nbsp; RealEstate Hub: AI Voice and Chat Agent
-*Full-stack AI · Interpretable ML · [Repository](https://github.com/UmerSahi/Real-Estate-Hub-AI-Voice-Chat-Agent)*
+- 🩻 Medical image analysis and computer vision
+- 🔍 Explainable and trustworthy AI
+- 🛡️ Safety evaluation of LLM and agent systems
+- 🧩 Vision-language models and multimodal learning
 
-A bilingual (Urdu, Roman Urdu, English) voice and chat consultant for Pakistan's property market, backed by a stateful LangGraph agent and two explainable ML models.
+## 📊 GitHub Stats
 
-<a href="https://github.com/UmerSahi/Real-Estate-Hub-AI-Voice-Chat-Agent">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chart-realestate-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/chart-realestate-light.svg">
-  <img src="assets/chart-realestate-light.svg" alt="Bar charts: property valuation R squared for linear, random forest and LightGBM; lead scoring ROC-AUC and PR-AUC." width="100%">
-</picture>
-</a>
+<div align="center">
 
-- 10-node LangGraph agent for search, valuation, booking, rescheduling, RAG and email, with invariants against double bookings and unverified listings
-- Real-time voice through Vapi and Deepgram Nova-3, SHAP explanations translated into plain language, hot-lead alerts after each call
-- React and Vite frontend, FastAPI backend, Dockerfile and a Render blueprint
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UmerSahi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerSahi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
 
-`LangGraph` `LightGBM` `SHAP` `Vapi` `React`
+<img src="https://streak-stats.demolab.com?user=UmerSahi&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
-### More work
+<img src="https://github-profile-trophy.vercel.app/?username=UmerSahi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies">
 
-| Project | What it is | Link |
-|---|---|---|
-| **Deep Spud** | Undergraduate thesis: InceptionV3 transfer learning for potato leaf disease, **94%** test accuracy, Flask API with a Next.js frontend | [Notebooks](https://github.com/UmerSahi/potato-disease-Classification-notebook-only) |
-| **Brain Tumor MRI Classifier** | CNN for four MRI classes with a Tkinter desktop app showing confidence and per-class probabilities | [Repository](https://github.com/UmerSahi/Brain-Tumor-Detection-Desktop-App) |
-| **AFL AI Assistant** | Netixsol capstone: LangGraph assistant over 7,904 matches with tool use and a prompt-injection guard | Not yet public |
-| **Laptop Price Predictor** | Regression model behind a web interface | [Repository](https://github.com/UmerSahi/Laptop-Price-Predictor) |
-| **StoreFlow dashboard** | Next.js e-commerce analytics dashboard | [Repository](https://github.com/UmerSahi/Admin_Dashboard_Frontend_typescript) |
+</div>
 
-## Research interests
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-These are directions I'm building toward, not published expertise.
+## 📫 Let's Connect
 
-| Direction | Where it shows up |
-|---|---|
-| Computer vision and medical image analysis | Fracture detection on radiographs, brain tumor MRI classification |
-| Explainable and trustworthy AI | Grad-CAM saliency audit, model card, SHAP explanations |
-| Safety evaluation of AI systems | Clinic assistant triage recall, red-team testing, prompt-injection guards |
-| Multimodal and generative AI | Lab-report extraction, voice and chat agents, RAG |
+I'm open to research assistantships, graduate research positions and AI / ML engineering roles.
 
-## How I work
-
-- **Evaluate before claiming.** Held-out test sets, baselines, bootstrap confidence intervals and calibration, not a single accuracy number.
-- **Report failure modes.** The saliency audit and the limitations sections are part of the work, not an afterthought.
-- **Ship the whole system.** Data, training, APIs, interfaces, containers and deployment.
-- **Design for safety.** Deterministic guards beside LLM components, human review gates, and tested attack scenarios.
-
-## Skills
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
-  <img src="assets/skills-light.svg" alt="Skills grouped by area: languages, ML and vision, LLMs and agents, backend and web, data, and tools." width="100%">
-</picture>
-
-<details>
-<summary>Skills as plain text</summary>
-
-**Languages:** Python, JavaScript, TypeScript, SQL<br>
-**ML and vision:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, LightGBM, SHAP, Grad-CAM<br>
-**LLMs and agents:** LangGraph, RAG, Model Context Protocol, Gemini, Vapi, Presidio<br>
-**Backend and web:** FastAPI, Flask, Node.js, React, Next.js, Docker<br>
-**Data:** pandas, PostgreSQL, Supabase, MySQL, ChromaDB<br>
-**Tools:** Git, Jupyter, Google Colab, Figma, Render
-
-</details>
-
-## Recognition
-
-Gold Medalist, B.S. Computer Science (rank 1 in cohort) · Top Performer, HEC Pakistan Generative AI Training Program, Cohort 3 · IELTS Academic 7.5
-
-## Contact
-
-Interested in research assistantships, graduate research positions and AI / ML engineering roles anywhere in the world.
-
-[umersahi5p@gmail.com](mailto:umersahi5p@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/umer-sahi-b3bb19348/) &nbsp;·&nbsp; [Portfolio](https://umer-sahi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://umer-sahi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-sahi-b3bb19348/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umersahi5p@gmail.com)
