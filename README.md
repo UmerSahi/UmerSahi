@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:2DD4BF&height=220&section=header&text=Umer%20Sahi&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer&descSize=22&descAlignY=60" width="100%" alt="Wave header with the name Umer Sahi, AI and ML Engineer">
 
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="36" alt="waving hand">
-
 <a href="https://github.com/UmerSahi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Engineer;Computer+Vision+%C2%B7+Medical+AI;Explainable+AI+%C2%B7+LLM+Agents;Open+to+research+%26+ML+roles+worldwide" alt="Typing animation: AI / ML Engineer, Computer Vision, Medical AI, Explainable AI, LLM Agents">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Umer;AI+%2F+ML+Engineer;Computer+Vision+%C2%B7+Medical+AI;Explainable+AI+%C2%B7+LLM+Agents;Open+to+research+%26+ML+roles+worldwide&height=45" alt="Typing animation: AI / ML Engineer, Computer Vision, Medical AI, Explainable AI, LLM Agents">
 </a>
-
-<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://umer-sahi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-sahi-b3bb19348/)
@@ -17,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -44,7 +40,7 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -96,7 +92,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="fire"> Featured Projects</h2>
@@ -114,7 +110,7 @@
 <p align="center"><sub>Other repos: [Laptop Price Predictor](https://github.com/UmerSahi/Laptop-Price-Predictor) · [StoreFlow Dashboard](https://github.com/UmerSahi/Admin_Dashboard_Frontend_typescript) · [Crypto Price Watcher](https://github.com/UmerSahi/Cryptopricewatcher)</sub></p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="bullseye"> Research Interests</h2>
@@ -132,7 +128,7 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <h2 align="center">📊 GitHub Activity</h2>
@@ -154,7 +150,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40" alt="handshake"> Let's Connect</h2>
@@ -169,7 +165,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2DD4BF,100:0F172A&height=2" width="60%" alt="">
 </p>
 
 <p align="center"><sub>Thanks for visiting. Feel free to reach out.</sub></p>
