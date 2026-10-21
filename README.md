@@ -16,7 +16,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center"><i>Who I am and what I'm looking for</i></p>
 
 <table>
 <tr>
@@ -40,7 +41,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center"><i>Tools I use to build and ship AI systems</i></p>
+
+<div align="center">
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -83,9 +87,12 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="fire"> Featured Projects
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="fire"> Featured Projects</h2>
+<p align="center"><i>Selected work with public code</i></p>
 
 | | Project | What it does | Stack |
 |:-:|---|---|---|
@@ -96,18 +103,28 @@
 | 🥔 | **[Deep Spud](https://github.com/UmerSahi/potato-disease-Classification-notebook-only)** | Thesis project: potato leaf disease classification with InceptionV3 (**94%** test accuracy). | `TensorFlow` `Flask` `Next.js` |
 | 🧠 | **[Brain Tumor Classifier](https://github.com/UmerSahi/Brain-Tumor-Detection-Desktop-App)** | MRI tumor classification in a Tkinter desktop app. | `TensorFlow` `Tkinter` |
 
-<sub>Other repos: [Laptop Price Predictor](https://github.com/UmerSahi/Laptop-Price-Predictor) · [StoreFlow Dashboard](https://github.com/UmerSahi/Admin_Dashboard_Frontend_typescript) · [Crypto Price Watcher](https://github.com/UmerSahi/Cryptopricewatcher)</sub>
+<p align="center"><sub>Other repos: [Laptop Price Predictor](https://github.com/UmerSahi/Laptop-Price-Predictor) · [StoreFlow Dashboard](https://github.com/UmerSahi/Admin_Dashboard_Frontend_typescript) · [Crypto Price Watcher](https://github.com/UmerSahi/Cryptopricewatcher)</sub></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="bullseye"> Research Interests
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="bullseye"> Research Interests</h2>
+<p align="center"><i>Directions I want to explore in graduate research</i></p>
 
-- 🩻 Medical image analysis and computer vision
-- 🔍 Explainable and trustworthy AI
-- 🛡️ Safety evaluation of LLM and agent systems
-- 🧩 Vision-language models and multimodal learning
+<table align="center">
+<tr>
+<td align="center" width="50%">🩻<br><b>Medical Image Analysis</b><br><sub>Computer vision for radiographs and MRI</sub></td>
+<td align="center" width="50%">🔍<br><b>Explainable AI</b><br><sub>Grad-CAM, SHAP and honest evaluation</sub></td>
+</tr>
+<tr>
+<td align="center">🛡️<br><b>Trustworthy LLM Agents</b><br><sub>Safety testing, guardrails, human review</sub></td>
+<td align="center">🧩<br><b>Multimodal Learning</b><br><sub>Vision-language models and generative AI</sub></td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
+
+<h2 align="center">📊 GitHub Activity</h2>
+<p align="center"><i>Live stats from my GitHub account</i></p>
 
 <div align="center">
 
@@ -126,10 +143,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40" alt="handshake"> Let's Connect
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40" alt="handshake"> Let's Connect</h2>
+<p align="center"><i>Open to research assistantships, graduate positions and AI / ML roles</i></p>
 
-I'm open to research assistantships, graduate research positions and AI / ML engineering roles.
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://umer-sahi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-sahi-b3bb19348/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umersahi5p@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="">
+
+<p align="center"><sub>Thanks for visiting. Feel free to reach out.</sub></p>
